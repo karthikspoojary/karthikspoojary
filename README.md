@@ -46,18 +46,3 @@ I'm a Computer Science Engineering student building at the intersection of **AI/
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
 </p>
 <p align="center">Also: Google Colab · Kaggle</p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikspoojary&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikspoojary&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=karthikspoojary&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
