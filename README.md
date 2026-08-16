@@ -25,29 +25,39 @@ I'm a Computer Science Engineering student building at the intersection of **AI/
 
 ## Tech Stack
 
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mysql" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Languages" />
 </p>
 
-**AI/ML:** TensorFlow · Keras · Scikit-learn · Qiskit · YOLOv11
-**Backend/Frontend:** FastAPI · React · Node.js
-**Tools:** Git · Google Colab · Kaggle
+### 🤖 AI / ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch" alt="AI/ML" />
+</p>
+<p align="center">Also: Keras · Qiskit · YOLOv11</p>
+
+### 🌐 Backend & Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mysql" alt="Backend & Frontend" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
+</p>
+<p align="center">Also: Google Colab · Kaggle</p>
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikspoojary&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikspoojary&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikspoojary&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikspoojary&layout=compact&theme=dark&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=karthikspoojary&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=karthikspoojary&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
