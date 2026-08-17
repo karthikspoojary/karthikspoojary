@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Karthik S Poojary 👋
-
 **Final Year CSE @ St. Joseph Engineering College, Mangaluru** · Graduating 2027
 **Seeking SDE / Java Full Stack / AI-ML Engineer roles**
 
@@ -25,24 +24,55 @@ I'm a Computer Science Engineering student building at the intersection of **AI/
 
 ## Tech Stack
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 ### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Languages" />
+
+</td>
+<td align="center" width="50%">
 
 ### 🤖 AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch" alt="AI/ML" />
-</p>
-<p align="center">Also: Keras · Qiskit · YOLOv11</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch" alt="AI/ML" />
+<br><sub>Also: Keras · Qiskit · YOLOv11</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
 ### 🌐 Backend & Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mysql" alt="Backend & Frontend" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mysql" alt="Backend & Frontend" />
+
+</td>
+<td align="center" width="50%">
 
 ### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
-</p>
-<p align="center">Also: Google Colab · Kaggle</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
+<br><sub>Also: Google Colab · Kaggle</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+### ✨ Other
+<img src="https://skillicons.dev/icons?i=latex,docker,postman,figma" alt="Other" />
+<br><sub>LaTeX (Overleaf) · Docker · Postman · Figma</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
+
+> 📌 Most of my work right now lives inside a few deep, high-effort project repos rather than spread across daily commits — check them out above for the real substance.
+
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=karthikspoojary&show_icons=true&count_private=true&hide=contribs&theme=default&hide_border=true&hide_rank=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikspoojary&layout=compact&hide_border=true"/>
+</div>
