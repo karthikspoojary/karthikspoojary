@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi, I'm Karthik S Poojary 👋
+
 **Final Year CSE @ St. Joseph Engineering College, Mangaluru** · Graduating 2027
 **Seeking SDE / Java Full Stack / AI-ML Engineer roles**
 
@@ -16,51 +17,53 @@
 
 I'm a Computer Science Engineering student building at the intersection of **AI/ML and full-stack systems** — from a hybrid quantum-classical model for ECG classification to a real-time computer vision system for traffic monitoring. I'm from Dakshina Kannada, Karnataka, and I like taking projects from a research idea to something that actually runs end-to-end, even on zero-budget, free-tier infrastructure.
 
-- 🔬 **Currently building:** [QuCardio](https://github.com/karthikspoojary/QuCardio) — a hybrid quantum-classical SVM pipeline (ResNet50 → PCA → ZZFeatureMap → Pegasos QSVC) for 4-class cardiac ECG classification, 86.2% accuracy
-- 🚦 **Also built:** [PermeaRoute](https://github.com/karthikspoojary/PermeaRoute) — a real-time traffic permeability index system using YOLOv11 (45+ FPS) + FastAPI + React, built on the IISc UVH-26 dataset
+- 🔬 **Currently building:** [QuCardio](https://github.com/karthikspoojary/QuCardio) — a hybrid quantum-classical SVM pipeline (ResNet50 → PCA → ZZFeatureMap → Pegasos QSVC) for 4-class cardiac ECG classification, 94.6% accuracy
+- 🚦 **Also built:** [PermeaRoute](https://github.com/karthikspoojary/PermeaRoute) — a real-time traffic permeability index system using YOLOv11 (45+ FPS) + FastAPI + React, on the IISc UVH-26 dataset
+- ✈️ **And:** [TripWay](https://github.com/karthikspoojary/TripWay) — an LLM-powered travel-planning agent built on an 10-node LangGraph state graph with a self-correcting replan loop
 - 📚 **Currently learning:** Java and Spring Boot, via Wipro TalentNext Full Stack training
 
 ---
 
-## Tech Stack
+## 🛠️ Skills
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js" alt="Languages" />
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,js" /><br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"/>
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch" alt="AI/ML" />
-<br><sub>Also: Keras · Qiskit · YOLOv11</sub>
+### 📚 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,spring" />
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 🌐 Backend & Frontend
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mysql" alt="Backend & Frontend" />
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
 </td>
-<td align="center" width="50%">
+<td width="50%" align="center">
 
 ### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools" />
-<br><sub>Also: Google Colab · Kaggle</sub>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td colspan="2" align="center">
 
-### ✨ Other
-<img src="https://skillicons.dev/icons?i=latex,docker,postman,figma" alt="Other" />
-<br><sub>LaTeX (Overleaf) · Docker · Postman · Figma</sub>
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" height="48"/>
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" height="28"/>
 
 </td>
 </tr>
@@ -68,11 +71,15 @@ I'm a Computer Science Engineering student building at the intersection of **AI/
 
 ---
 
-## GitHub Activity
-
-> 📌 Most of my work right now lives inside a few deep, high-effort project repos rather than spread across daily commits — check them out above for the real substance.
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=karthikspoojary&show_icons=true&count_private=true&hide=contribs&theme=default&hide_border=true&hide_rank=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikspoojary&layout=compact&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-stats.demolab.com/api?username=karthikspoojary&show_icons=true&theme=dark&hide_border=true&hide_rank=true&hide=contribs" />
+<img height="165em" src="https://github-readme-stats.demolab.com/api/top-langs/?username=karthikspoojary&layout=compact&theme=dark&hide_border=true" />
+
 </div>
+
+<p align="center">
+<sub>📌 Most of my work lives inside a few deep, high-effort project repos rather than spread across daily commits — check out <a href="https://github.com/karthikspoojary/QuCardio">QuCardio</a>, <a href="https://github.com/karthikspoojary/PermeaRoute">PermeaRoute</a>, and <a href="https://github.com/karthikspoojary/TripWay">TripWay</a> above for the real substance.</sub>
+</p>
