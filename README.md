@@ -32,7 +32,6 @@ I'm a Computer Science Engineering student building at the intersection of **AI/
 
 ###  Programming Languages
 <img src="https://skillicons.dev/icons?i=java,python,c,js" /><br/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"/>
 
 </td>
 <td width="50%" align="center">
